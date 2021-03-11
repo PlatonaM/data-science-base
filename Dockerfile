@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-RUN apt-get update && apt-get install -y llvm python3-pip
+RUN apt-get update && apt-get install -y llvm python3-pip && apt-get clean
 
 COPY requirements.txt requirements.txt
 

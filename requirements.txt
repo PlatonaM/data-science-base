@@ -1,8 +1,5 @@
 dask[complete]
 sklearn
-pandas
-numpy
 tsfresh
 imblearn
-psutil
 openpyxl

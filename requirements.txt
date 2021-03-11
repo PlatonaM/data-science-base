@@ -1,11 +1,8 @@
+dask[complete]
 sklearn
-dask
 pandas
 numpy
 tsfresh
 imblearn
 psutil
 openpyxl
-fsspec
-locket
-partd

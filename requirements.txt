@@ -6,3 +6,6 @@ tsfresh
 imblearn
 psutil
 openpyxl
+fsspec
+locket
+partd
